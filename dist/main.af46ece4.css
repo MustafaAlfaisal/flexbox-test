@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+#content {
+    display: flex;
+}
+
+#content #articales {
+    flex-grow: 2;
+}
+
+
+
+#content #mostViewed {
+    flex-grow: 1;
+    background-color: blue;
+    flex-basis: 600px;
+}
+
+
+#content #articales #artical {
+    display: flex;
+}
+
+#artical div:nth-child(2) {
+    padding: 0 0 0 10px;
+}
+
+#artical {
+    margin: 
+}
+
+#artical h3 {
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+}
+
+#artical p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#artical time {
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
