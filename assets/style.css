@@ -60,6 +60,7 @@ article time {
   position: absolute;
   top: 0%;
   left: 0%;
+  width: 100%;
 }
 
 #most_viewed_artical img {
